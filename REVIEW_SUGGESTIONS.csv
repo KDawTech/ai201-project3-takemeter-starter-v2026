@@ -1,0 +1,201 @@
+﻿row,title,ai_suggestion,review_status
+21,How can I update the font size for all of the UI in pyqt,implementation,UNREVIEWED
+22,Filtering polars using a dictionary,implementation,UNREVIEWED
+23,Screen blanks after executing .py file in Geany,debugging,UNREVIEWED
+24,How do I force multiple pygame windows to be unable to minimize?,implementation,UNREVIEWED
+25,Get sum of calculated column in aggregated request,implementation,UNREVIEWED
+26,How do I safely remove unused asyncio locks without causing duplicate requests?,implementation,UNREVIEWED
+27,How can I color specific words in live time in a QTextEdit?,implementation,UNREVIEWED
+28,"Converting Nubra historical_data() to a pandas DataFrame: TimeSeriesPoint objects, nanosecond timestamps and odd volume",implementation,UNREVIEWED
+29,How do I solve an error with a Python scraping program,debugging,UNREVIEWED
+30,"When developing the same package for R and Python, do you put them in one github repo or separate repos",conceptual,UNREVIEWED
+31,How to get both losses and detection predictions from Torchvision Faster R-CNN in training mode and vice versa?,implementation,UNREVIEWED
+32,Does loadTable().to_pandas() transfer all data or only metadata first?,conceptual,UNREVIEWED
+33,"Nubra NubraDataSocket: code after keep_running() never executes, and option subscriptions return nothing",debugging,UNREVIEWED
+34,Merge two Celery tasks,implementation,UNREVIEWED
+35,How to place a limit buy with an attached stop-loss and target in Nubra V3 (which executionMode?),implementation,UNREVIEWED
+36,Does importing modules which are only used for type-checking have any runtime overhead?,conceptual,UNREVIEWED
+37,"How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",implementation,UNREVIEWED
+38,CS50s finance - stuck at : buy handles valid purchase,debugging,UNREVIEWED
+39,Creating a IntegrityError for testing purposes,implementation,UNREVIEWED
+40,Flask Can't Call Python Function From HTML Button Using 'onclick',debugging,UNREVIEWED
+41,User Checkable PySide6 ListWidget Items Missing Checkboxes after macOS Upgrade,debugging,UNREVIEWED
+42,Routing global Android bluetooth button presses into app to toggle a specific function,implementation,UNREVIEWED
+43,Regex replace group reference and Unicode escape conflict,debugging,UNREVIEWED
+44,Why python app keeps getting DisconnectNonTransientConnectionException every two weeks?,debugging,UNREVIEWED
+45,Nubra ref_id is different in UAT and PROD: how to look up a NIFTY option ref_id by strike and expiry,implementation,UNREVIEWED
+46,How do I get all hosts on my Mininet custom topology to respond to ping using pingall?,debugging,UNREVIEWED
+47,Why I am unable to set Groups despite user having an Id?,debugging,UNREVIEWED
+48,Servo not responding when controlling with Raspberry pi,debugging,UNREVIEWED
+49,ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk,debugging,UNREVIEWED
+50,"Apache Spark, PySpark can't write a file on disk",debugging,UNREVIEWED
+51,How to take inputs on multiple lines?,implementation,UNREVIEWED
+52,pip fails with ModuleNotFoundError: No module named '_posixsubprocess',debugging,UNREVIEWED
+53,"Type hints warning - Expected type 'LoaderProtocol | None', got 'PatchedLoader' instead",debugging,UNREVIEWED
+54,"How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",implementation,UNREVIEWED
+55,How to make two attr.s instances equal each other in this code,implementation,UNREVIEWED
+56,PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing,debugging,UNREVIEWED
+57,Finding value within nested dictionary with arrays,implementation,UNREVIEWED
+58,Why and how does Python treat __new__ differently when called from an instance?,conceptual,UNREVIEWED
+59,How to properly update ScrollAreaWidget contents via signals in PySide6?,implementation,UNREVIEWED
+60,Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string,debugging,UNREVIEWED
+61,"Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",conceptual,UNREVIEWED
+62,"Python multiprocessing (pool, imap) performance degradation on Linux host",debugging,UNREVIEWED
+63,Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k,debugging,UNREVIEWED
+64,Frappe v16.35.0: OAuth password grant returns invalid_grant while /api/method/login accepts the same credentials (works on v16.33.1),debugging,UNREVIEWED
+65,How to run a file in VS Code then open up an REPL with the globals in place,implementation,UNREVIEWED
+66,"matplot patchcollection(s) moving and rotating, all together and each seprately, what is best?",implementation,UNREVIEWED
+67,How to avoid invalid-method-override?,debugging,UNREVIEWED
+68,Asyncio code causing infinite loop in GPIO project,debugging,UNREVIEWED
+69,How to make this context manager cleanly yield an updating value,implementation,UNREVIEWED
+70,How to sum elements in a 2d array and then find max/highest value?,implementation,UNREVIEWED
+71,Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?,conceptual,UNREVIEWED
+72,pywebtransport and docker - client timing out trying to find server,debugging,UNREVIEWED
+73,How is the number of bins/bin width determined in a seaborn histogram by default?,conceptual,UNREVIEWED
+74,Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?,implementation,UNREVIEWED
+75,Write a typing.Protocol when its implementations have different arg names,implementation,UNREVIEWED
+76,"Why does Pyright reject protocol methods with a ""pass"" body?",conceptual,UNREVIEWED
+77,Why does hashlib.md5 assignment location matter in python?,debugging,UNREVIEWED
+78,How to see the selected text in Python Tkinter Text when the Text is not in focus,implementation,UNREVIEWED
+79,Ansible Lookup Plugin to query the inventory?,implementation,UNREVIEWED
+80,How can I get latest reading from multiple GridDB TimeSeries containers using Python?,implementation,UNREVIEWED
+81,Member None of Any | None does not have attribute with_columns - polars & PyCharm problem,debugging,UNREVIEWED
+82,Detecting keypress and keyrelease on arrow keys,implementation,UNREVIEWED
+83,Creating a dict of keyword arguments,implementation,UNREVIEWED
+84,Is a broadcast variable shared across multiple concurrent Spark jobs?,conceptual,UNREVIEWED
+85,Using `with` and a custom class not setting attributes,debugging,UNREVIEWED
+86,How do I correctly type a wrapper that returns a classmethod?,implementation,UNREVIEWED
+87,Type-hinting instance variables,conceptual,UNREVIEWED
+88,What kind of regular expression captures the root of a URL?,implementation,UNREVIEWED
+89,Where is the Python documentation for handling ties with the built-in min function?,conceptual,UNREVIEWED
+90,JAX FFI handler does not find my CUDA function exported with nanobind,debugging,UNREVIEWED
+91,Correcting faulty N-body simulation using velocity Verlet integration,debugging,UNREVIEWED
+92,Correct type annotation for default initialisation with generic dataclass inheritance,conceptual,UNREVIEWED
+93,"How to catch keypress event on arrow keys, and stop them from moving focus?",implementation,UNREVIEWED
+94,X12-EDI-Tools validator disagrees with X12-Tidy on the validity of an X12 810 file,debugging,UNREVIEWED
+95,Schemdraw SVG file doesn't render properly with PySide6,debugging,UNREVIEWED
+96,How do I use the correct syntax for a variable being 0 in an if function,implementation,UNREVIEWED
+97,Bounded type parameter lists and backwards-compatible Python syntax,conceptual,UNREVIEWED
+98,How to add a method to a specific instance in Python,implementation,UNREVIEWED
+99,pymysqlpool / mysql-connector-python pool - how to close pooled sockets cleanly,implementation,UNREVIEWED
+100,NGBoost multi-step ahead probabilistic forecasting for 96 time steps,implementation,UNREVIEWED
+101,Replace duplicated DataFrame indices with a single Series,implementation,UNREVIEWED
+102,"How to write Python integers to binary file using ""struct.pack"" equivalent to ""unsigned int"" in C++",implementation,UNREVIEWED
+103,"X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",debugging,UNREVIEWED
+104,Is there a better alternative to using os.getenv() for FastAPI settings?,conceptual,UNREVIEWED
+105,Multiple bases have instance lay-out conflict when dynamically subclassing @dataclass(slots=True) with cooperative multiple inheritance,debugging,UNREVIEWED
+106,Projectile flies horizontally instead of toward the clicked point,debugging,UNREVIEWED
+107,How to count messages in compact topic(Kafka)?,implementation,UNREVIEWED
+108,Playwright installation fails on Linux Mint Gigi,debugging,UNREVIEWED
+109,Finding a specific phrase in a text using Neuro-Linguistic Programming in Python,implementation,UNREVIEWED
+110,"OSError: Repo id must use alphanumeric chars, '-', '_' or '.'. The name cannot start or end with '-' or '.' ........ 'T5ForConditionalGeneration(",debugging,UNREVIEWED
+111,Replace a printed line when it overflows to the next line,implementation,UNREVIEWED
+112,Adding columns in matplotlib graph breaks row layout,debugging,UNREVIEWED
+113,Why groups are not populated upon `auth_permission`?,debugging,UNREVIEWED
+114,Font size going down when you delete all text in tkinter scrolledtext,debugging,UNREVIEWED
+115,How I can use python in order to populate and modify groups?,implementation,UNREVIEWED
+116,Some Non-Hashable Objects still Work as Auxiliary Data in Custom Pytree,conceptual,UNREVIEWED
+117,How to Pass and Reference Multiple Batches in a Great Expectations Custom SQL Query,implementation,UNREVIEWED
+118,sympy parse/expand without alphabetical ordering,implementation,UNREVIEWED
+119,Display every conversation that matches the selected sentiment,implementation,UNREVIEWED
+120,pygame + multiprocessing =?,conceptual,UNREVIEWED
+121,CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html,debugging,UNREVIEWED
+122,holoviews.Point bi-directional sync,implementation,UNREVIEWED
+123,Is it possible to configure structlog using Python standard library fileConfig/dictConfig?,implementation,UNREVIEWED
+124,How to compute a gradient column-wise in a pandas DataFrame using the index as an input?,implementation,UNREVIEWED
+125,Preserving whitespace during lxml serialization,implementation,UNREVIEWED
+126,Error when trying to loop through and display SQLite table within HTML page,debugging,UNREVIEWED
+127,How to realize which version of Selenium to use for each Chrome version?,conceptual,UNREVIEWED
+128,Are imports to the __future__ module cached?,conceptual,UNREVIEWED
+129,Stadia.AlidadeSatellite Not working in folium interactive map,debugging,UNREVIEWED
+130,"What does this "",/:"" operator mean in Python?",conceptual,UNREVIEWED
+131,sklearn.learning_curve(n_jobs=-1) crashes with TerminatedWorkerError in Quarto but not Jupyter,debugging,UNREVIEWED
+132,curve_fit() with multiple independent variables in integral function,implementation,UNREVIEWED
+133,What does annotating a variable actually do in Python?,conceptual,UNREVIEWED
+134,What is this square bracket notation in Python class?,conceptual,UNREVIEWED
+135,When and how should __all__ be defined?,conceptual,UNREVIEWED
+136,How to use pydicom auto_format config option,implementation,UNREVIEWED
+137,NiceGui Upload CSV Error 'UploadEventArguments' object has no attribute 'content',debugging,UNREVIEWED
+138,When and why should a class break the UpperCamelCase naming convention?,conceptual,UNREVIEWED
+139,How to configure a python installation in Python Install Manager?,implementation,UNREVIEWED
+140,How do threading scripts work when Tkinter is involved?,conceptual,UNREVIEWED
+141,How to use isinstance on functools.cache cached classes?,implementation,UNREVIEWED
+142,ImportError: cannot import name 'GradientBaseModelLLM' from 'llama_index.llms',debugging,UNREVIEWED
+143,"Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",debugging,UNREVIEWED
+144,How to cleanly manage shifting player roles for a game of texas hold'em poker,implementation,UNREVIEWED
+145,Power BI Python Visualization erroring out when it shouldn't,debugging,UNREVIEWED
+146,Finding digits in a string containing distinct digits,implementation,UNREVIEWED
+147,IBKR ib_insync problem with placing stop limit orders in pre/post markets,debugging,UNREVIEWED
+148,PyCharm type-hint warning: Member 'None' of 'Any | None' does not have attribute '__getitem__',debugging,UNREVIEWED
+149,Empty datetime() and type-hint errors,debugging,UNREVIEWED
+150,Using df.styler with df.to_latex() and longtable,implementation,UNREVIEWED
+151,"Why doesn't setting ""justMyCode"": false allow my breakpoint to work?",debugging,UNREVIEWED
+152,Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?,conceptual,UNREVIEWED
+153,os.path.isfile() does not work with ~ prefix,debugging,UNREVIEWED
+154,Documentation of pandas DataFrame.replace with series as input,conceptual,UNREVIEWED
+155,Type hint a default return type used unless more specific overload exists,conceptual,UNREVIEWED
+156,Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?,implementation,UNREVIEWED
+157,How to deal with implicit transformation into parent type when using a TypeVar?,conceptual,UNREVIEWED
+158,pwntool process is none [Starting remote process None: Process creation failed],debugging,UNREVIEWED
+159,why can i not install pygame on the Visual StudiI developer powershell,debugging,UNREVIEWED
+160,"Python discount function returns negative value and passes all linters, mypy, bandit and unit tests",debugging,UNREVIEWED
+161,"When installing requests with UV, VS code cannot find requests module, but the script runs successfully from the command line",debugging,UNREVIEWED
+162,Send an email from Outlook account using Python,implementation,UNREVIEWED
+163,How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working,debugging,UNREVIEWED
+164,Why isn't my type checker (Pyright) complaining about a clear type violation?,conceptual,UNREVIEWED
+165,Best practice for (simple) searching item in a list,implementation,UNREVIEWED
+166,How to type-hint a function that returns as many values as in its input?,implementation,UNREVIEWED
+167,PySide6 Custom widget with Enum property,implementation,UNREVIEWED
+168,"Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",conceptual,UNREVIEWED
+169,Python Library/Module Won't Import While Others Do,debugging,UNREVIEWED
+170,How can I make numpy arrays the same shape before doing conditional computations?,implementation,UNREVIEWED
+171,How can I test Stack Overflow API write operations?,implementation,UNREVIEWED
+172,How to call a Python script from Octave using system(),implementation,UNREVIEWED
+173,"In the Python Socket Module, I am trying to send HTTP status codes to my client socket, but none work properly",debugging,UNREVIEWED
+174,How do I design a multi-purpose event handler without making it generic?,implementation,UNREVIEWED
+175,How to get unix-specific python modules working easily on Windows?,implementation,UNREVIEWED
+176,Canonical way to select data in SQLAlchemy,conceptual,UNREVIEWED
+177,How to make a Toplevel window over a Tk window in Python Tkinter?,implementation,UNREVIEWED
+178,Loading lugh/ClinicalT5-base,debugging,UNREVIEWED
+179,Mapping np array to Fortran array in gdb using Python API,implementation,UNREVIEWED
+180,"CBC solver reports ""optimal"" solution but pyomo model variables are `None` valued",debugging,UNREVIEWED
+181,"2 line procedural testframe appears, but the class iframe does not",debugging,UNREVIEWED
+182,Can't get virtual environment to activate from the terminal,debugging,UNREVIEWED
+183,GStreamer later version seems to mis-identify the prepare-window-handle message,debugging,UNREVIEWED
+184,Delete operation on frozendict,implementation,UNREVIEWED
+185,Visual Studio Code does not show descriptions of ManyToManyField set and clear,debugging,UNREVIEWED
+186,How do I make my QMainWindow's contents dynamically resize after floating a QDockWidget?,implementation,UNREVIEWED
+187,How to resolve TypeError: isSubclass() arg 1 must be a class when issubclass() wasn't explicitly called?,debugging,UNREVIEWED
+188,Using ast.parse to evaluate arithmetic expression safely,implementation,UNREVIEWED
+189,Why does my Stoat.py code run without issues but the bot doesn't go online/respond to commands?,debugging,UNREVIEWED
+190,How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?,implementation,UNREVIEWED
+191,Python match-case vs. dictionary performance internals,conceptual,UNREVIEWED
+192,How to plot specific data types in matplotlib,implementation,UNREVIEWED
+193,"Running into build wheel error installing specific version of Frida, unsure how to proceed",debugging,UNREVIEWED
+194,Why does typing break when I convert my classes to generic classes?,debugging,UNREVIEWED
+195,Append column from multiple pandas dataframes while retaining filename,implementation,UNREVIEWED
+196,SciPy spsolve / SuperLU SUPERLU_MALLOC failure despite available RAM,debugging,UNREVIEWED
+197,How to get authorization code for Spotify API?,implementation,UNREVIEWED
+198,"FastAPI Form() with List[Type] sends array as comma-separated string (""2,5"") causing 422 parsing error in Swagger UI",debugging,UNREVIEWED
+199,Why does the typing break when I split one operation into two?,debugging,UNREVIEWED
+200,"""zsh: segmentation fault"" error using PyQt6 and MacBook",debugging,UNREVIEWED
+201,How to resolve CUDA Out of Memory (OOM) when loading 7B+ parameter LLMs using PyTorch and Hugging Face,debugging,UNREVIEWED
+202,Maze generator in Python with the turtle library using the DFS algorithm,implementation,UNREVIEWED
+203,Can I use `@overload` to fix this typing issue?,conceptual,UNREVIEWED
+204,How to merge specific rows in a pandas DataFrame?,implementation,UNREVIEWED
+205,Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379,debugging,UNREVIEWED
+206,django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22),debugging,UNREVIEWED
+207,Ring coupler issue in Python,debugging,UNREVIEWED
+208,Access difference for HTTP request,conceptual,UNREVIEWED
+209,How to extract valid Python code from .ipynb cells,implementation,UNREVIEWED
+210,Playwright works locally but gets Cloudflare Turnstile 403 on AWS Lambda,debugging,UNREVIEWED
+211,How to give a font to a option in a Python tkinter.ttk Combobox?,implementation,UNREVIEWED
+212,How to restrict clickable area to Button,implementation,UNREVIEWED
+213,Coercing pyright to understand non-None Optional values,conceptual,UNREVIEWED
+214,Does Python's linecache read the entire file into memory?,conceptual,UNREVIEWED
+215,Why does DISKANN with MAX_SIM_COSINE return a negative self-similarity score for FLOAT16 vectors in a StructArray?,debugging,UNREVIEWED
+216,Class decorator with arguments using the @decorator syntax not working,debugging,UNREVIEWED
+217,Dataframe sorting and column count,implementation,UNREVIEWED
+218,How do I get typing to work on generic class when creating a property with a function?,debugging,UNREVIEWED
+219,PyTorch installation fails with incomplete-download errors on Linux Mint,debugging,UNREVIEWED
+220,Run an async function weekly at a specific time,implementation,UNREVIEWED

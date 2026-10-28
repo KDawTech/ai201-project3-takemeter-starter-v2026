@@ -1,0 +1,170 @@
+[
+  {
+    "seed": 42,
+    "n_test": 33,
+    "accuracy": 0.45454545454545453,
+    "f1_macro": 0.41704822954822957,
+    "per_label": {
+      "debugging": {
+        "precision": 0.3333333333333333,
+        "recall": 0.2857142857142857,
+        "f1": 0.3076923076923077,
+        "support": 7
+      },
+      "implementation": {
+        "precision": 0.6,
+        "recall": 0.5294117647058824,
+        "f1": 0.5625,
+        "support": 17
+      },
+      "conceptual": {
+        "precision": 0.3333333333333333,
+        "recall": 0.4444444444444444,
+        "f1": 0.38095238095238093,
+        "support": 9
+      }
+    },
+    "confusion": {
+      "debugging": {
+        "debugging": 2,
+        "implementation": 3,
+        "conceptual": 2
+      },
+      "implementation": {
+        "debugging": 2,
+        "implementation": 9,
+        "conceptual": 6
+      },
+      "conceptual": {
+        "debugging": 2,
+        "implementation": 3,
+        "conceptual": 4
+      }
+    },
+    "confidence": {
+      "mean_when_right": 0.3504399359226227,
+      "mean_when_wrong": 0.34982407093048096,
+      "accuracy_most_confident_third": 0.45454545454545453,
+      "accuracy_least_confident_third": 0.45454545454545453,
+      "n_per_third": 11
+    },
+    "device": "cpu",
+    "device_name": "CPU",
+    "torch_version": "2.14.1+cpu",
+    "max_length": 128,
+    "dataset_sha256": "99fbfbeebabf7a091584353236f4b828d6a8b3502ca4ff0b51b3be9e80c57972",
+    "training_method": "weighted_cross_entropy"
+  },
+  {
+    "seed": 7,
+    "n_test": 33,
+    "accuracy": 0.3333333333333333,
+    "f1_macro": 0.32756132756132755,
+    "per_label": {
+      "debugging": {
+        "precision": 0.4,
+        "recall": 0.2857142857142857,
+        "f1": 0.3333333333333333,
+        "support": 7
+      },
+      "implementation": {
+        "precision": 0.375,
+        "recall": 0.35294117647058826,
+        "f1": 0.36363636363636365,
+        "support": 17
+      },
+      "conceptual": {
+        "precision": 0.25,
+        "recall": 0.3333333333333333,
+        "f1": 0.2857142857142857,
+        "support": 9
+      }
+    },
+    "confusion": {
+      "debugging": {
+        "debugging": 2,
+        "implementation": 5,
+        "conceptual": 0
+      },
+      "implementation": {
+        "debugging": 2,
+        "implementation": 6,
+        "conceptual": 9
+      },
+      "conceptual": {
+        "debugging": 1,
+        "implementation": 5,
+        "conceptual": 3
+      }
+    },
+    "confidence": {
+      "mean_when_right": 0.34908050298690796,
+      "mean_when_wrong": 0.3461468517780304,
+      "accuracy_most_confident_third": 0.36363636363636365,
+      "accuracy_least_confident_third": 0.18181818181818182,
+      "n_per_third": 11
+    },
+    "device": "cpu",
+    "device_name": "CPU",
+    "torch_version": "2.14.1+cpu",
+    "max_length": 128,
+    "dataset_sha256": "99fbfbeebabf7a091584353236f4b828d6a8b3502ca4ff0b51b3be9e80c57972",
+    "training_method": "weighted_cross_entropy"
+  },
+  {
+    "seed": 2024,
+    "n_test": 33,
+    "accuracy": 0.48484848484848486,
+    "f1_macro": 0.33638211382113825,
+    "per_label": {
+      "debugging": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 7
+      },
+      "implementation": {
+        "precision": 0.5416666666666666,
+        "recall": 0.7647058823529411,
+        "f1": 0.6341463414634146,
+        "support": 17
+      },
+      "conceptual": {
+        "precision": 0.42857142857142855,
+        "recall": 0.3333333333333333,
+        "f1": 0.375,
+        "support": 9
+      }
+    },
+    "confusion": {
+      "debugging": {
+        "debugging": 0,
+        "implementation": 5,
+        "conceptual": 2
+      },
+      "implementation": {
+        "debugging": 2,
+        "implementation": 13,
+        "conceptual": 2
+      },
+      "conceptual": {
+        "debugging": 0,
+        "implementation": 6,
+        "conceptual": 3
+      }
+    },
+    "confidence": {
+      "mean_when_right": 0.3572893738746643,
+      "mean_when_wrong": 0.3523263931274414,
+      "accuracy_most_confident_third": 0.6363636363636364,
+      "accuracy_least_confident_third": 0.2727272727272727,
+      "n_per_third": 11
+    },
+    "device": "cpu",
+    "device_name": "CPU",
+    "torch_version": "2.14.1+cpu",
+    "max_length": 128,
+    "dataset_sha256": "99fbfbeebabf7a091584353236f4b828d6a8b3502ca4ff0b51b3be9e80c57972",
+    "training_method": "weighted_cross_entropy"
+  }
+]
